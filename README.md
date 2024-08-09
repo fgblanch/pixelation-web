@@ -1,2 +1,2 @@
 # pixelation-web
-The web version of the pixelation game
+The web single file version of the pixelation game
